@@ -1,0 +1,15 @@
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Practica_1_ABD\BACKEND\bin\Debug\net6.0\BACKEND.exe
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Practica_1_ABD\BACKEND\bin\Debug\net6.0\BACKEND.deps.json
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Practica_1_ABD\BACKEND\bin\Debug\net6.0\BACKEND.runtimeconfig.json
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Practica_1_ABD\BACKEND\bin\Debug\net6.0\BACKEND.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Practica_1_ABD\BACKEND\bin\Debug\net6.0\BACKEND.pdb
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Practica_1_ABD\BACKEND\obj\Debug\net6.0\BACKEND.csproj.AssemblyReference.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Practica_1_ABD\BACKEND\obj\Debug\net6.0\BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Practica_1_ABD\BACKEND\obj\Debug\net6.0\BACKEND.AssemblyInfoInputs.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Practica_1_ABD\BACKEND\obj\Debug\net6.0\BACKEND.AssemblyInfo.cs
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Practica_1_ABD\BACKEND\obj\Debug\net6.0\BACKEND.csproj.CoreCompileInputs.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Practica_1_ABD\BACKEND\obj\Debug\net6.0\BACKEND.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Practica_1_ABD\BACKEND\obj\Debug\net6.0\refint\BACKEND.dll
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Practica_1_ABD\BACKEND\obj\Debug\net6.0\BACKEND.pdb
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Practica_1_ABD\BACKEND\obj\Debug\net6.0\BACKEND.genruntimeconfig.cache
+C:\Users\ddzj9\OneDrive\Documentos\Visual Studio\Practica_1_ABD\BACKEND\obj\Debug\net6.0\ref\BACKEND.dll
